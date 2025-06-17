@@ -1,0 +1,25 @@
+# Archivos de salida generados por los notebooks
+df_weeks.csv
+store_data.csv
+df_sales_calendar_price.csv
+df_clustering_final.csv
+
+# Documentos y memoria (la información debe estar en el README)
+*.docx
+*.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python general
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv
+venv/
+env/
+*.env
+
+# Archivos del sistema
+.DS_Store
